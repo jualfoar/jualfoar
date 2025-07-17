@@ -11,8 +11,8 @@
 - ⚙️ Container & Orchestration: Docker, Proxmox, Ansible AWX/Tower  
 - 🏠 **Home Assistant** enthusiast: automations & sensors galore  
 - 🎨 Image Processing: Streamlit + OpenCV mashups  
-- 🌐 **Polyglot**: Fluent en English, Français, Español (and code in English!)
-
+- 🌐 **Polyglot**: Fluent en English, Français, Español.
+  
 ---
 
 ## 💡 What I Do
@@ -38,7 +38,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔗 **django_purls**: Profile links, vCard, stats, PWA & reservations  
+- 🔗 **mysociallinks**: Profile links, vCard, stats, PWA & reservations  
 - 🤖 **crypto‑bot**: Automated trading strategies via KuCoin API  
 - 🖼️ **photo‑collage**: Streamlit app with theming & SVG/PNG assets  
 - 🌱 **infra‑as‑code**: Ansible playbooks for Proxmox dynamic inventory  
