@@ -3,7 +3,7 @@
 <!-- Badges -->
 [![jualfoar github stats](https://github-readme-stats.vercel.app/api?username=jualfoar&show_icons=true&theme=algolia)](https://github.com/jualfoar)
 
-[![Discord](https://img.shields.io/discord/709500370333859861?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=for-the-badge)](https://discord.gg/U5Mx5EM)
+[![Discord](https://img.shields.io/discord/645140815991275531?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=for-the-badge)](https://discord.gg/U5Mx5EM)
 [![GitHub followers](https://img.shields.io/github/followers/jualfoar?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/jualfoar?tab=followers)
 [![Email](https://img.shields.io/badge/Email-jualfoar%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jualfoar@gmail.com)
 
