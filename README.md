@@ -39,6 +39,8 @@
 | **Automation** | Home Assistant, MQTT, cron, webhooks      |
 | **Image Dev**  | Streamlit, OpenCV, SVG generation         |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jualfoar&theme=algolia)](https://github.com/jualfoar)
+
 ---
 
 ## 📂 Featured Projects
