@@ -5,7 +5,7 @@
 
 [![Discord](https://img.shields.io/discord/709500370333859861?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=for-the-badge)](https://discord.gg/U5Mx5EM)
 [![GitHub followers](https://img.shields.io/github/followers/jualfoar?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=jualfoar)
-[![Email](https://img.shields.io/badge/Email-info%40selfhosted.pro-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jualfoar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jualfoar%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jualfoar@gmail.com)
 
 ---
 
